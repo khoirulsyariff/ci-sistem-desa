@@ -1,70 +1,43 @@
 ###################
-What is CodeIgniter
+SISTEM INFORMASI PENGELOLAAN DATA PENDUDUK 
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
 *******************
-Release Information
+Kenapa saya membuat aplikasi ini?
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Ini merupakan aplikasi pertama yang akan saya jadikan sebagai portfolio. ini juga salah satu project magang saya,
+contoh aplikasi ini juga bisa saya jadikan sebagai latihan untuk mengasah skill koding saya.
+
+*******************
+Boleh ga memodifikasi aplikasi ini?
+*******************
+
+Jawabanya adalah sangat sangat boleh Tapi ingat tetap sertakan siapa yang membuat aplikasi ini.
 
 **************************
-Changelog and New Features
+Kalo di jual boleh ga?
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Dilarang Keras  Karena ini aplikasi bener bener gratis dan bebas bagi siapapun yang menggunakan dan ingin memodifikasinya.
 
 *******************
-Server Requirements
+Instalasi & Konfigurasi
 *******************
 
-PHP version 5.6 or newer is recommended.
+		Untuk cara instalasi dan konfigurasi caranya sangat mudah
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+1. Kalian download atau clone repositori ini
+2. Selanjutnya kalian bisa buka file sistem-desa
+3. Ubah isi dari variable $base_url dengan http://localhost/namafolder/
+4. Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
+5. Untuk login kalian bisa register terlebih dahulu atau menggunakan username = admin dan password 1
 
 *********
-Resources
+Tentang Saya
 *********
+Saya salah satu Mahasiswa di Perguruan Tinggi swasta Karawang 
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+https://www.instagram.com/khoirulsyarif/
 
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
